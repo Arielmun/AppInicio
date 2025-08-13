@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731219989393",
+    "project_id": "agendat-e6e1f",
+    "storage_bucket": "agendat-e6e1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731219989393:android:f12f9d77b129e21eeb8030",
+        "android_client_info": {
+          "package_name": "com.arielmondev.agendaescolar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUiBBkgBMOabqh1ApPaBOx9OdUjDl4GyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
