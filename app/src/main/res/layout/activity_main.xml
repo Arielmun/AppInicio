@@ -11,18 +11,19 @@
 
     <ImageView
         android:id="@+id/ivlogo2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
         android:src="@drawable/cmlogo2"
-        android:layout_marginStart="30dp"
-        android:layout_marginTop="20dp"/>
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"/>
+
     <ImageView
         android:id="@+id/ivbanner"
         android:layout_width="wrap_content"
-        android:layout_height="180dp"
-        android:src="@drawable/bannerceicom"
-        android:layout_marginTop="40dp"
-        android:layout_below="@id/ivlogo2"/>
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ivlogo2"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/bannerceicom" />
 
     <TextView
         android:id="@+id/tvtitulo"
